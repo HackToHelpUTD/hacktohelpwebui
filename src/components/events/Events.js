@@ -1,12 +1,12 @@
 import React from 'react';
 
-const About = () => {
+const Events = () => {
 
     return (
         <div className="row">
             <div className="col-12">
                 <p>
-                    This is a sample about page just to demonstrate routing demo
+                    Events page
                 </p>
             </div>
         </div>
@@ -15,4 +15,4 @@ const About = () => {
 
 }
 
-export { About };
+export { Events };

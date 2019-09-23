@@ -6,7 +6,7 @@ const Contact = () => {
         <div className="row">
             <div className="col-12">
                 <p>
-                    This is a sample contact page just to demonstrate routing demo
+                    Contacts
                 </p>
             </div>
         </div>

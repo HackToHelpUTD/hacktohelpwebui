@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Home = () => {
+const Join = () => {
 
     return (
         <div className="row">
             <div className="col-12">
                 <p>
-                    This is a sample Home page just to demonstrate routing demo
+                    Join us page
                 </p>
             </div>
         </div>
@@ -15,4 +15,4 @@ const Home = () => {
 
 }
 
-export { Home };
+export { Join };
